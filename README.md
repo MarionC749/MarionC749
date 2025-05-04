@@ -8,7 +8,7 @@ As an Environmental Data Science and Analytics master’s student at the Univers
 * 🖥️  I am currently working on my thesis: Investigating environmental drivers of European wildfire CO emissions using the JULES-INFERNO model
 * 🧠  I am currently learning about machine learning
 
-Here is an example of [Python code I wrote as part of my MSc studies](https://github.com/MarionC749/GEOG5301M_Mini-Project)
+Here is an example of [Python code I wrote as part of my MSc studies](https://github.com/MarionC749/GEOG5301M-Mini-Project)
 
 ### Skills  
 
