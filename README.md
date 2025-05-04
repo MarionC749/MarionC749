@@ -8,6 +8,8 @@ As an Environmental Data Science and Analytics master’s student at the Univers
 * 🖥️  I am currently working on my thesis: Investigating environmental drivers of European wildfire CO emissions using the JULES-INFERNO model
 * 🧠  I am currently learning about machine learning
 
+Here is an example of [Python code I wrote as part of my MSc studies](https://github.com/MarionC749/GEOG5301M_Mini-Project)
+
 ### Skills  
 
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a> </p> 
