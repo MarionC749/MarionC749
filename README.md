@@ -1,6 +1,6 @@
 Hello ! My name is Marion Carneiro 
 ================================  
-MSc Environmental Data Science & Analytics Student 🌱
+Environmental Data Science & Analytics MSc Student 🌱
 --------------------------------------------------  
 As an Environmental Data Science and Analytics master’s student at the University of Leeds, I am passionate about leveraging data to drive sustainable solutions. My background in ecology from the University of Edinburgh has provided me with a robust understanding of environmental sciences, climate change, conservation and the complexities of ecological systems. Through my current studies, I am further strengthening my skills in data analysis, statistics, and spatial modelling. I am eager to continue learning and contribute to impactful projects that address environmental challenges and promote data-driven decision making for a sustainable future.  
 * 🌍  I'm based in the UK
