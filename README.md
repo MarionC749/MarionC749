@@ -1,12 +1,12 @@
 Hello ! My name is Marion Carneiro 
 ================================  
-Environmental Data Science & Analytics MSc Student 🌱
+Environmental Data Scientist 🌱
 --------------------------------------------------  
-As an Environmental Data Science and Analytics master’s student at the University of Leeds, I am passionate about leveraging data to drive sustainable solutions. My background in ecology from the University of Edinburgh has provided me with a robust understanding of environmental sciences, climate change, conservation and the complexities of ecological systems. Through my current studies, I am further strengthening my skills in data analysis, statistics, and spatial modelling. I am eager to continue learning and contribute to impactful projects that address environmental challenges and promote data-driven decision making for a sustainable future.  
+As an environmental data scientist, I am passionate about leveraging data to drive sustainable solutions. My background in ecology from the University of Edinburgh has provided me with a robust understanding of environmental sciences, climate change, conservation and the complexities of ecological systems. Through my current work, I am further strengthening my skills in data analysis, statistics, and spatial modelling. I am eager to continue learning and contribute to impactful projects that address environmental challenges and promote data-driven decision making for a sustainable future.  
 * 🌍  I'm based in the UK
-* 🎓  I am currently studying at University of Leeds
+* 💼  I am currently working as a data scientist for LIDA
 * ✉️  You can contact me at [marioncarneiro206@gmail.com](mailto:marioncarneiro206@gmail.com)
-* 🖥️  I am currently working on my thesis: Investigating environmental drivers of European wildfire CO emissions using the JULES-INFERNO model
+* 🖥️  I am currently working on a project: Developing a National Cultural Data Observatory (NCDO)
 * 🧠  I am currently learning about machine learning
 
 Here is an example of [Python code I wrote as part of my MSc studies](https://github.com/MarionC749/GEOG5301M-Mini-Project)
