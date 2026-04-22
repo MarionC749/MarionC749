@@ -6,8 +6,8 @@ As an environmental data scientist, I am passionate about leveraging data to dri
 * 🌍  I'm based in the UK
 * 💼  I am currently working as a data scientist for LIDA
 * ✉️  You can contact me at [marioncarneiro206@gmail.com](mailto:marioncarneiro206@gmail.com)
-* 🖥️  I am currently working on a project: Developing a National Cultural Data Observatory (NCDO)
-* 🧠  I am currently learning about machine learning
+* 🖥️  I am currently working on a project: Spatial and Ecological Evaluation of Developing Spaces (SEEDS)
+* 🧠  I am currently learning about dashboard building in Python
 
 Here is an example of [Python code I wrote as part of my MSc studies](https://github.com/MarionC749/GEOG5301M-Mini-Project)
 
