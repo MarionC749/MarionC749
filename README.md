@@ -2,7 +2,8 @@ Hello ! My name is Marion Carneiro
 ================================  
 Environmental Data Scientist 🌱
 --------------------------------------------------  
-As an environmental data scientist, I am passionate about leveraging data to drive sustainable solutions. My background in ecology from the University of Edinburgh has provided me with a robust understanding of environmental sciences, climate change, conservation and the complexities of ecological systems. Through my current work, I am further strengthening my skills in data analysis, statistics, and spatial modelling. I am eager to continue learning and contribute to impactful projects that address environmental challenges and promote data-driven decision making for a sustainable future.  
+Data scientist driven by ‘People, Planet, Place’, with 2 years’ experience sprouting insights from environmental and social data through spatial-temporal analysis, statistical modelling, data visualization and pipelines. Eager to contribute to impactful projects that pollinate informed decision-making for the public good and a sustainable future through innovative data solutions.
+
 * 🌍  I'm based in the UK
 * 💼  I am currently working as a data scientist for LIDA
 * ✉️  You can contact me at [marioncarneiro206@gmail.com](mailto:marioncarneiro206@gmail.com)
